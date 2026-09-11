@@ -8,10 +8,10 @@ The 3D rendering is implemented using a **ray casting** technique, generating a 
 
 ## Images of the game
 
-**ordinator view <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e99819fc-e73d-42db-8695-f0c0c34add77" />
-**glasses view <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2534ff30-54fc-4d6e-8de1-f65438937b7a" />
-**room with the "door"<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/47a98914-931a-4769-b2b1-e0f39ea60264" />
-**a view of the map<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/fc7ffa9f-2f08-4db9-b49c-af106c953099" />
+**ordinator view** <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e99819fc-e73d-42db-8695-f0c0c34add77" />
+**glasses view** <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2534ff30-54fc-4d6e-8de1-f65438937b7a" />
+**room with the "door"**<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/47a98914-931a-4769-b2b1-e0f39ea60264" />
+**a view of the map**<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/fc7ffa9f-2f08-4db9-b49c-af106c953099" />
 
 ---
 
