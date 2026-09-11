@@ -192,5 +192,5 @@ This project is intended for educational and experimental purposes.
 
 ## Author
 
-Feel free to explore the code, experiment with the rendering system, and build upon the project.
+AWayToCreate - Feel free to explore the code and experiment with the rendering system.
 
