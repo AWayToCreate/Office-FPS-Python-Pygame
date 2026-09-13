@@ -206,5 +206,6 @@ This project is intended for educational and experimental purposes.
 
 ## Author
 
-AWayToCreate - Feel free to explore the code and experiment with the rendering system.
+AWayToCreate - This repository is provided for learning, experimentation, and testing purposes. You are welcome to study and use the code to learn, but you may not copy it, claim it as your own, present it as your own work, or redistribute it without permission.
+
 
